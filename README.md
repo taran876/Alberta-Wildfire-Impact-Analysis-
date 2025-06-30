@@ -1,8 +1,8 @@
-Alberta Wildfire Analysis
+# Alberta Wildfire Analysis
 
 This repository contains an interactive data analysis project focused on exploring and visualizing wildfire patterns, impacts, and trends in Alberta, Canada. The project was developed using Microsoft Power BI and Excel to transform raw wildfire incident data into actionable insights.
 
-📊 Project Overview
+## 📊 Project Overview
 
 Wildfires pose a serious threat to Alberta’s communities, environment, and economy. This project aims to:
 
@@ -12,7 +12,7 @@ Highlight patterns in wildfire causes and spread
 Support preparedness and decision-making through accessible dashboards
 
 
-🚀 Features
+## 🚀 Features
 
 Power BI dashboards showcasing interactive maps, charts, and trend analyses
 Data cleaning and preparation performed in Excel
@@ -21,13 +21,13 @@ Filters to drill down by region, cause, year, and severity
 Visual storytelling to help both technical and non-technical stakeholders understand wildfire risks
 
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Power BI: Data visualization and interactive dashboard building
 Microsoft Excel: Data cleaning, preprocessing, and transformation
 
 
-📌 Key Insights
+## 📌 Key Insights
 
 Some of the insights discovered in this analysis include:
 
@@ -37,14 +37,14 @@ Major contributing causes of ignition
 Year-over-year trends in wildfire occurrences and severity
 
 
-💡 How to Use
+## 💡 How to Use
 
 Clone or download this repository
 Open the AlbertaWildfireReport.pbix file in Power BI Desktop
 Refresh data connections if needed
 Explore the report and adjust filters to reveal specific insights
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome! Feel free to open an issue or submit a pull request to enhance the analysis or extend the dataset.
 
